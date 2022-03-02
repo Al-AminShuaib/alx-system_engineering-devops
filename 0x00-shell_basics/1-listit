@@ -1,2 +1,2 @@
-#!/bin/boash
+#!/bin/bash
 ls $'\n'
